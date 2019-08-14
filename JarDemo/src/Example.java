@@ -5,7 +5,8 @@ public class Example {
 	public static void main(String[] args) {
 		B b =new B();
 		Car c=new Car();
-		//This is a comment
+		// is a comment --added a more bit
+		//this is another comment
 	}
 
 }
